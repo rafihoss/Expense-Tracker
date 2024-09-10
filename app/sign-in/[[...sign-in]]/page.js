@@ -9,7 +9,7 @@ export default function SignUpPage() {
          <AppBar position="static" sx={{backgroundColor: '#1976d2'}}>
            <Toolbar>
              <Typography variant="h6" sx={{flexGrow: 1}}>
-               Expense Tracker
+               FairShare
              </Typography>
              <Button
                         sx={{

@@ -105,7 +105,7 @@ export default function Home() {
       <AppBar position="static" sx={{ mb: 5 }}>
         <Toolbar>
           <Typography variant="h6" style={{flexGrow: 1}}>
-            Expense Tracker
+            FairShare
           </Typography>
           <SignedOut>
             <Button color="inherit" href="/sign-in">Login</Button>
@@ -117,7 +117,7 @@ export default function Home() {
         </Toolbar>
       </AppBar>
 
-      <Typography variant="h4" gutterBottom>Simple Expense Splitter</Typography>
+      <Typography variant="h4" gutterBottom>Simple Expense Tracker</Typography>
 
       <TextField
         label="Enter expense details"
