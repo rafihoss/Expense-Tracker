@@ -98,7 +98,7 @@ export default function Home() {
   return (
     <Container maxWidth >
       <Head>
-        <title>Expense Tracker</title>
+        <title>FairShare</title>
         <meta name="description" content="Keep track of your expenses with AI help" />
       </Head>
 
